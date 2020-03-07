@@ -56,5 +56,6 @@ input+p {
 input.invalid+p {
     opacity: 1;
     height: auto;
-    margin-bottom: 20px;
+    margin-top: 5px;
+    margin-bottom: 25px;
 }
